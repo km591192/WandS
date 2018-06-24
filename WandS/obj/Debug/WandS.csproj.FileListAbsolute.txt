@@ -1,0 +1,9 @@
+D:\onu\c# net\WandS\WandS\bin\Debug\WandS.exe.config
+D:\onu\c# net\WandS\WandS\bin\Debug\WandS.exe
+D:\onu\c# net\WandS\WandS\bin\Debug\WandS.pdb
+D:\onu\c# net\WandS\WandS\obj\Debug\WandS.csprojResolveAssemblyReference.cache
+D:\onu\c# net\WandS\WandS\obj\Debug\WandS.Form1.resources
+D:\onu\c# net\WandS\WandS\obj\Debug\WandS.Properties.Resources.resources
+D:\onu\c# net\WandS\WandS\obj\Debug\WandS.csproj.GenerateResource.Cache
+D:\onu\c# net\WandS\WandS\obj\Debug\WandS.exe
+D:\onu\c# net\WandS\WandS\obj\Debug\WandS.pdb
